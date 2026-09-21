@@ -1,0 +1,3 @@
+Name            date           venue
+Technovenza     15 dec 26       Vjti
+Anual function  2 feb 27        Vjti
