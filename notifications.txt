@@ -1,3 +1,5 @@
 show notification in pop up
 
 show notification in notify bar
+
+show dot on app as notify
