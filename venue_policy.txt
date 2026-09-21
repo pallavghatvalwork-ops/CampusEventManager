@@ -1,1 +1,3 @@
 venue detail policy
+
+add msg
