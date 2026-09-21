@@ -2,3 +2,4 @@ NAME            DATE          VENUE
 Names           dates          venues
 Technovenza     15 dec 26       Vjti
 Anual function  2 feb 27        Vjti
+Internal sih hackthon 22 sep 2026 Vjti
